@@ -1,4 +1,4 @@
-# How to check numbers of replicasets
+# How to check numbers of replicaset
 
 kubectl get rs
 
